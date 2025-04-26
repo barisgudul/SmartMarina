@@ -85,7 +85,7 @@ npm start
 
 | Home (Main Screen) | Explore (Weather & Map) | Devices (Manage Devices) |
 | ------------------ | ----------------------- | ------------------------ |
-| ![SmartMarina1](./smartmarine1.jpeg) | ![SmartMarina2](./smartmarine2.jpeg) | ![SmartMarina3](./smartmarine3.jpeg) |
+| ![SmartMarina1](backend/mobile-app/assets/images/smartmarine1.jpeg) | ![SmartMarina2](backend/mobile-app/assets/images/smartmarine2.jpeg) | ![SmartMarina3](backend/mobile-app/assets/images/smartmarine3.jpeg) |
 
 ---
 
