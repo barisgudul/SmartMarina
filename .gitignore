@@ -1,0 +1,11 @@
+# Node modules
+backend/node_modules/
+backend/mobile-app/node_modules/
+
+# Expo files
+backend/mobile-app/.expo/
+
+# Other
+*.log
+*.env
+.DS_Store

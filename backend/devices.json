@@ -1,0 +1,22 @@
+{
+    "light1": {
+        "name": "Dock Light",
+        "type": "light",
+        "status": false
+    },
+    "light2": {
+        "name": "Entrance Light",
+        "type": "light",
+        "status": true
+    },
+    "camera1": {
+        "name": "Security Camera",
+        "type": "camera",
+        "status": false
+    },
+    "ac1": {
+        "name": "Office Air Conditioner",
+        "type": "climate",
+        "status": true
+    }
+}
